@@ -19,3 +19,8 @@ These are the notebooks that I worked on for [the Natural Language Processing wi
 ## DistilBERT (via Hugging Face)
 * **DistilBERT V1**: We fine-tune DistilBERT from Hugging Face and perform the set of pre-processing steps identified in the BERTweet notebooks prior to training the model. The model achieved ~84% validation accuracy. This was a significant improvement from the previous models, but the model did not perform better on the test data set.
     * Score: 0.82255; Rank: Unranked; Submission on: Aug 15th, 2023
+
+## DeBERTa (via Hugging Face)
+* **DeBERTa V1**: We fine-tune DeBERTa from Hugging Face and perform the set of pre-processing steps identified in the BERTweet notebooks prior to training the model. The model achieved ~82% validation accuracy. This was not a significant improvement from the previous models, and the model did not perform better on the test data set.
+    * Score: 0.81642; Rank: Unranked; Submission on: Aug 16th, 2023
+
