@@ -1,5 +1,5 @@
 # Classify Disaster Tweets
-These are the notebooks that I worked on for [the Natural Language Processing with Disaster Tweets competition on Kaggle](https://www.kaggle.com/competitions/nlp-getting-started). As of July 24th, 2023, the best performing model has the score of 0.83971 (Rank: 93). 
+These are the notebooks that I worked on for [the Natural Language Processing with Disaster Tweets competition on Kaggle](https://www.kaggle.com/competitions/nlp-getting-started). As of July 24th, 2023, the best performing model has the score of 0.83971 (Rank: 93). Note that, given the unique nature of this competition, the top 40 - 50 entries have perfect scores. 
 
 ## Tensorflow Models (via Tensorflow Hub)
 * **BERT-based Classifier**: We train three different models using BERT and achieve ~78% validation accuracy. This is not impressive compared to the performance of other models that are on the leaderboard.
